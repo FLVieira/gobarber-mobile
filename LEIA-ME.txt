@@ -2,3 +2,6 @@
 2 - Root import
 3 - Rotas e navegação
 4 - Background
+5 - Input e Button
+6 - Página de SignIn
+7 - Página de SignUp

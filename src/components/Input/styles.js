@@ -9,7 +9,7 @@ export const Container = styled.View`
   align-items: center;
 `;
 
-export const TInput = styled.View.attrs({
+export const TInput = styled.TextInput.attrs({
   placeholderTextColor: 'rgba(255, 255, 255, 08)',
 })`
   flex: 1;
