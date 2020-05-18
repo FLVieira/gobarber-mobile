@@ -12,3 +12,5 @@
 12 - Conectando o Redux
 13 - Rota inicial
 14 - Estilização das rotas
+15 - Lista de agendamentos
+16 - Agendamentos da API
