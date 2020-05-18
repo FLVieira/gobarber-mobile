@@ -7,3 +7,5 @@
 7 - Página de SignUp
 8 - Configurando StatusBar
 9 - Dicas de acessibilidade
+10 - Reactotron
+11 -
