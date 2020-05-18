@@ -5,3 +5,5 @@
 5 - Input e Button
 6 - Página de SignIn
 7 - Página de SignUp
+8 - Configurando StatusBar
+9 - Dicas de acessibilidade
