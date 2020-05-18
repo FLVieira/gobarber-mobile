@@ -10,3 +10,5 @@
 10 - Reactotron
 11 - Configurando o Redux
 12 - Conectando o Redux
+13 - Rota inicial
+14 - Estilização das rotas
