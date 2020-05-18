@@ -8,4 +8,5 @@
 8 - Configurando StatusBar
 9 - Dicas de acessibilidade
 10 - Reactotron
-11 -
+11 - Configurando o Redux
+12 - Conectando o Redux
