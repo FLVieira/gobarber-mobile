@@ -1,8 +1,7 @@
 import React from 'react';
 import { View } from 'react-native';
+import styled from 'styled-components';
 
-// import { Container } from './styles';
-
-export default function Base() {
+export default function Background() {
   return <View />;
 }
