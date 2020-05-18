@@ -14,3 +14,5 @@
 14 - Estilização das rotas
 15 - Lista de agendamentos
 16 - Agendamentos da API
+17 - Atualização de perfil
+18 - Logout
