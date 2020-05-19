@@ -17,4 +17,5 @@
 17 - Atualização de perfil
 18 - Logout
 19 - Rotas de agendamento
-20 - Listagem de prestadores
+20 - DatePicker por plataforma
+21 - Selecionando horário
