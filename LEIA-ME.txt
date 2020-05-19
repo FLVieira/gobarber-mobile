@@ -19,3 +19,5 @@
 19 - Rotas de agendamento
 20 - DatePicker por plataforma
 21 - Selecionando horário
+22 - Confirmando agendamento
+23 - Load de agendamentos

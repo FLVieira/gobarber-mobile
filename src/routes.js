@@ -59,6 +59,7 @@ export default function Routes(isSigned = false) {
             Profile,
           },
           {
+            resetOnBlur: true,
             tabBarOptions: {
               keyboardHidesTabBar: true,
               activeTintColor: '#fff',
