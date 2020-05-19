@@ -16,3 +16,5 @@
 16 - Agendamentos da API
 17 - Atualização de perfil
 18 - Logout
+19 - Rotas de agendamento
+20 - Listagem de prestadores
