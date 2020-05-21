@@ -21,3 +21,4 @@
 21 - Selecionando horário
 22 - Confirmando agendamento
 23 - Load de agendamentos
+24 - (bug de carregamento dos avatares dos providers)
