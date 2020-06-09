@@ -42,6 +42,11 @@ Pré-requisitos:
 - [Back-end](https://github.com/FLVieira/gobarber-api) da aplicação executando.
 
 ```
+# Configure o arquivo api.js dentro de src/services e o configure de acordo com as configuraçõs do seu emulador. 
+# Se você estiver usando um dispositivo físico:
+1 - No caso de um IOS, basta trocar o endereço contido por 'localhost'.
+2 - No caso de um dispositivo android, coloque o endereço IPV4 da rede local do seu computador.
+
 # Vá no seu terminal e digite os seguintes comandos:
 1. git clone https://github.com/FLVieira/gobarber-mobile.git
 2. cd gobarber-mobile
