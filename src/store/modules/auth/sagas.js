@@ -25,7 +25,6 @@ export function* signIn({ payload }) {
 
     api.defaults.headers.Authorization = `Bearer ${token}`;
     yield put(authActions.signInSuccess(token, user));
-    // history.push('/dashboard');
   } catch (err) {
     Alert.alert(
       'Falha na autenticação',
@@ -37,7 +36,7 @@ export function* signIn({ payload }) {
 
 export function* signUp({ payload }) {
   try {
-    const { name, email, password } = payload;
+    const { name, email, password, navigation } = payload;
 
     yield call(api.post, 'users', {
       name,
@@ -45,7 +44,7 @@ export function* signUp({ payload }) {
       password,
     });
     yield put(authActions.signUpSuccess());
-    // history.push('/');
+    navigation.navigate('SignIn');
   } catch (err) {
     Alert.alert(
       'Falha no cadastro',
@@ -68,7 +67,6 @@ export function setToken({ payload }) {
 
 export function signOut() {
   delete api.defaults.headers.Authorization;
-  // history.push('/');
 }
 
 export default all([
